@@ -13,3 +13,5 @@ Content-Management-System
  Has ability to test for credit card validity. 
  
  Has NO banking integration code.
+ 
+ The code needs a local server such as XAMPP for running the database operations.
